@@ -1,0 +1,43 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>   
+    <title>Monuments</title>
+</head>
+<h1>Famous monument </h1>
+<li><a href="https://en.wikipedia.org/wiki/Taj Mahal">Taj Mahal</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Petra">Petra</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Sydney_Opera_House">Sydney Opera House</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Colosseum">Colosseum</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza">Pyramids of Giza</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Machu_Picchu">Machu Picchu</a></li>
+<br>
+<Table border="5">
+    <tr>
+<th>Monuments</th>
+<th>Places</th>
+    </tr>
+    <tr>
+        <th>Taj Mahal</th>
+        <td>India</td>
+    </tr>
+    <tr>
+        <th>Petra</th>
+        <td>Jordan</td>
+    </tr>
+    <tr>
+        <th>Sydney Opera House </th>
+        <td>Australia</td>
+        <tr>
+            <th>Colosseum</th>
+            <td>Italy</td>
+            <tr>
+                <th>Pyramids of Giza</th>
+                <td>Egypt</td>
+                <tr>
+                    <th>Machu Picchu</th>
+                    <td>Peru</td>
+                </tr>
+            </tr>
+        </tr>
+    </tr>
+</Table>
